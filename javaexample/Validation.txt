@@ -1,0 +1,6 @@
+{ValidationResult :[
+{Filename: “Document.pdf”,Valid: “false”,errorMessage: “The attachment is not image”},
+{Filename: “imgcar.crash”,Valid: “false”,errorMessage: “The type of image is incorrect:crash”},
+{Filename: “imgplane.jpg”,Valid: “false”,errorMessage: “Size of image is over 100 (M)”},
+{Filename: “imgcuise.jpg”,Valid: “false”,errorMessage: “Size of content is over 100 bytes”}
+]}
